@@ -1,0 +1,22 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "introduction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathraj25/javascripting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharathraj25/javascripting/issues"
+  },
+  "homepage": "https://github.com/bharathraj25/javascripting#readme",
+  "dependencies": {
+    "javascripting": "^2.7.4"
+  }
+}
